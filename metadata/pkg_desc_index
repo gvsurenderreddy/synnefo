@@ -1,8 +1,0 @@
-app-emulation/libguestfs 1.20.4: Tools for accessing, inspect and modifying virtual machine (VM) disk images
-dev-python/ansicolors 1.0.2: A simple module to add ANSI colors and decorations to your strings
-dev-python/astakosclient 0.15 0.16: Python library / client for Astakos (Synnefo Identity component)
-dev-python/devflow 0.13_rc1-r2: A set of Python tools to manage versions, help implement the git flow development process
-dev-python/kamaki 0.7.9 0.8.1 0.12.10 0.12.10-r1 0.13 0.13-r1: A command-line tool for managing clouds
-dev-python/objpool 0.2 0.3 0.4: object pooling library
-dev-python/progress 1.1 1.2: Easy to use progress bars
-dev-python/snf_image_creator 0.2.8: Command line tool for creating images
